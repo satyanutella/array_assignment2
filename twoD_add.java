@@ -8,7 +8,7 @@ public class twoD_add {
 		int b[][]={{1,3,4},{2,4,3}};    
 		    
 		  
-		int c[][]=new int[2][2];  
+		int c[][]=new int[2][2]; 
 		    
 		
 		for(int i=0;i<2;i++)
