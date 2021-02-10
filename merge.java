@@ -1,8 +1,8 @@
-package assignment2;
+package Assignment2;
 
 import java.util.Arrays;
 
-public class merge {
+public class Merge {
 
 	public static void main(String[] args) {
 		
