@@ -1,8 +1,8 @@
-package assignment2;
+package Assignment2;
 
 import java.util.Scanner;
 
-public class ascending {
+public class Ascending {
 
 	public static void main(String[] args) {
 int count, temp;
