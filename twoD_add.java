@@ -1,6 +1,6 @@
-package assignment2;
+package Assignment2;
 
-public class twoD_add {
+public class Two_D_add {
 
 	public static void main(String[] args) 
 	{
